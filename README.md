@@ -1,6 +1,3 @@
-# Curso_de_Estadistica_Inferencial_con_R
-Curso de Estadística Inferencial con R by Platzi 💚
-
 # Curso de Estadistica Inferencial con R
 
 - [Curso de Estadistica Inferencial con R](#curso-de-estadistica-inferencial-con-r)
